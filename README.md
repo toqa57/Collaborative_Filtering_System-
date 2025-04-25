@@ -11,7 +11,7 @@ Collaborative Filtering is a widely-used recommendation technique that relies on
 
 The dataset used is the **MovieLens 100K**, containing 100,000 ratings from 943 users on 1,682 movies.
 
-🚀 Usage Instructions
+## 🚀 Usage Instructions
 ▶️ Run in Jupyter Notebook
 Navigate to the notebooks/ folder and open the notebooks in order:
 
@@ -23,7 +23,7 @@ Navigate to the notebooks/ folder and open the notebooks in order:
 
 04_evaluation_and_visualization.ipynb: Evaluate and visualize results
 
-📁 Project Structure
+## 📁 Project Structure
 
 collaborative-filtering-recommender/
 ├── README.md
